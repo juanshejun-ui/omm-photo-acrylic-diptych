@@ -1,0 +1,4 @@
+interface:
+  display_name: "OMM Photo Acrylic Diptych"
+  short_description: "Create quiet photo-and-acrylic 3:4 diptych posters"
+  default_prompt: "Use $omm-photo-acrylic-diptych to turn my photos into strict 3:4 photo-and-acrylic diptych posters."
