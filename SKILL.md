@@ -40,7 +40,7 @@ The upper panel is 3:2 landscape within the 3:4 poster. For landscape sources, s
 
 Place the lower illustration near the optical center or slightly below it. Preserve asymmetry from the source when it carries the story. Use at most a few environmental marks: one horizon, doorway, sun, tree, flower cluster, architectural arc, or similar cue. Do not fill the paper merely to balance the frame.
 
-Bundled lower-panel examples in `assets/` demonstrate the intended family without including the original photographs. Use them for scale, restraint, texture, and negative space only; never copy their wedding subjects into unrelated photos.
+Bundled finished poster examples in `assets/` are original works owned by @juanshejun-ui. Use them only to understand scale, restraint, texture, palette compression, and negative space. Never reproduce or reuse their people, likenesses, settings, narrative details, or compositions, and never treat the examples as freely reusable source assets.
 
 ## Deliverable standard
 

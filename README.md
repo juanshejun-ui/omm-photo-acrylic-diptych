@@ -1,4 +1,3 @@
-# omm-photo-acrylic-diptych
 <div align="center">
 
 # 🎨 OMM Photo Acrylic Diptych
@@ -42,14 +41,25 @@
 
 ## 🖼️ 风格参考
 
-> 仓库仅包含经过隐私处理的插画下半区，不包含原始婚礼照片。
+> **作品版权声明：** 以下 12 张原始摄影与双分区海报作品均由 **@juanshejun-ui** 创作并持有版权。  
+> 未经作者书面许可，请勿单独转载、裁剪、修改、二次售卖、用于商业展示，或收录为模型训练素材。
 
 <p align="center">
-  <img src="./assets/style-cars-couple.png" width="48%" align="top" alt="Cars and couple acrylic style reference">
-  <img src="./assets/style-detail-confetti.png" width="48%" align="top" alt="Confetti acrylic style reference">
+  <img src="./assets/case-01.png" width="31%" align="top" alt="OMM original artwork 01 by juanshejun-ui">
+  <img src="./assets/case-02.png" width="31%" align="top" alt="OMM original artwork 02 by juanshejun-ui">
+  <img src="./assets/case-03.png" width="31%" align="top" alt="OMM original artwork 03 by juanshejun-ui">
   <br><br>
-  <img src="./assets/style-veil-blue-flowers.png" width="48%" align="top" alt="Veil and blue flowers style reference">
-  <img src="./assets/style-red-stage.png" width="48%" align="top" alt="Red stage acrylic style reference">
+  <img src="./assets/case-04.png" width="31%" align="top" alt="OMM original artwork 04 by juanshejun-ui">
+  <img src="./assets/case-05.png" width="31%" align="top" alt="OMM original artwork 05 by juanshejun-ui">
+  <img src="./assets/case-06.png" width="31%" align="top" alt="OMM original artwork 06 by juanshejun-ui">
+  <br><br>
+  <img src="./assets/case-07.png" width="31%" align="top" alt="OMM original artwork 07 by juanshejun-ui">
+  <img src="./assets/case-08.png" width="31%" align="top" alt="OMM original artwork 08 by juanshejun-ui">
+  <img src="./assets/case-09.png" width="31%" align="top" alt="OMM original artwork 09 by juanshejun-ui">
+  <br><br>
+  <img src="./assets/case-10.png" width="31%" align="top" alt="OMM original artwork 10 by juanshejun-ui">
+  <img src="./assets/case-11.png" width="31%" align="top" alt="OMM original artwork 11 by juanshejun-ui">
+  <img src="./assets/case-12.png" width="31%" align="top" alt="OMM original artwork 12 by juanshejun-ui">
 </p>
 
 ---
@@ -148,7 +158,7 @@ omm-photo-acrylic-diptych/
 │   └── style-spec.md            # 下半区生成规范
 ├── scripts/
 │   └── compose_diptych.py       # 精确 3:4 与 50/50 拼接脚本
-├── assets/                      # 隐私安全的插画风格参考
+├── assets/                      # 作者完整作品示例（12 张）
 ├── README.md
 └── LICENSE.md
 ```
@@ -157,13 +167,15 @@ omm-photo-acrylic-diptych/
 
 ## 🔒 隐私说明
 
-仓库中的视觉参考只保留插画区域，不包含原始摄影区域。使用本 Skill 处理照片时，请确保你拥有相关照片的使用权，并在公开生成结果前获得画面中人物的许可。
+作者已选择在本仓库中公开展示 12 张完整作品，未进行人物遮挡或隐私裁切。公开展示不代表授予访客复制、转载、裁剪、修改、商业使用或将作品作为训练数据的权利。
+
+使用本 Skill 处理你自己的照片时，请确保你拥有相关照片、人物肖像及其他素材的必要权利，并在公开生成结果前取得所需许可。
 
 ---
 
 ## 📄 许可证
 
-本项目允许个人、教育、研究和其他非商业用途。未经书面授权，不得用于商业产品、付费服务、客户项目、企业商业应用、付费课程、转售或商业化再分发。
+本项目允许个人、教育、研究和其他非商业用途。未经书面授权，不得用于商业产品、付费服务、客户项目、企业商业应用、付费课程、转售或商业化再分发。仓库中的 12 张摄影与海报示例作品版权均归 **@juanshejun-ui** 所有，并受许可证中的作品专门条款保护。
 
 完整条款请阅读 [LICENSE.md](./LICENSE.md)。
 
