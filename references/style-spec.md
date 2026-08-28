@@ -11,7 +11,7 @@ Asset type: standalone lower illustration panel for an OMM 3:4 photo-and-acrylic
 Input roles:
 
 - User photo: content source. Extract only its key subject, gesture, relationship, environment cue, and palette.
-- Bundled lower-panel example(s): style and spacing reference only. Do not copy their people, clothing, setting, or objects.
+- Bundled finished poster example(s): original works owned by @juanshejun-ui and provided only as style and spacing references. Do not reproduce or reuse their people, likenesses, clothing, settings, narrative details, objects, or compositions.
 
 State all of these constraints in the prompt:
 
